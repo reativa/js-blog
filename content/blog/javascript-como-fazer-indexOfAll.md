@@ -1,0 +1,24 @@
+---
+title: como usar o indexOfAll no javascript es6
+date: "2020-01-04"
+description: ''
+tags: array,intermediate
+---
+
+Returns all indices of `val` in an array.
+If `val` never occurs, returns `[]`.
+
+Use `Array.prototype.reduce()` to loop over elements and store indices for matching elements.
+Return the array of indices.
+
+```js
+const indexOfAll = (arr, val) => arr.reduce((acc, el, i) => (el === val ? [...acc, i] : acc), []);
+```
+
+```js
+indexOfAll([1, 2, 3, 1, 2, 3], 1); // [0,3]
+indexOfAll([1, 2, 3], 4); // []
+```
+
+
+[Acesse a Referência original](http://github.com/30-seconds/)
