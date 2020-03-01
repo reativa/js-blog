@@ -1,6 +1,6 @@
 ---
 date: "2020-01-08"
-title: '2: O que o operador `&&` faz?'
+title: '2: O que o operador AND && faz?'
 description: "#PerguntasDeEntrevistas 2"
 tags: es6,javascript,interview,entrevistas
 ---
