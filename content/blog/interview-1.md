@@ -1,5 +1,5 @@
 ---
-date: "2020-01-07"
+date: "2020-02-01"
 title: '1: Qual é a diferença entre undefined e null?'
 description: "#PerguntasDeEntrevistas 1"
 tags: es6,javascript,interview,entrevistas
@@ -30,11 +30,11 @@ Antes de entender as diferenças entre `undefined` e `null` devemos entender a
 -   Eles são valores **falsos**. Valores avaliados como `falso` ao convertê-lo em booleano, usando: `Boolean(value)` ou `!!value`.
 
 ```js
-   console.log(!!null) //logs false
-   console.log(!!undefined) //logs false
+   console.log('!!null: ',!!null) //logs false
+   console.log('!!undefined: ',!!undefined) //logs false
 
-   console.log(Boolean(null)) //logs false
-   console.log(Boolean(undefined)) //logs false
+   console.log('Boolean(null): ',Boolean(null)) //logs false
+   console.log('Boolean(undefined): ',Boolean(undefined)) //logs false
 
 ```
 
@@ -44,15 +44,16 @@ Ok, vamos falar sobre as diferenças:
 
 ```js
   let _thisIsUndefined
+  console.log('_thisIsUndefined', _thisIsUndefined) //logs undefined
+
   const doNothing = () => {}
+  console.log(doNothing()) //logs undefined
+
   const someObj = {
     a : "ay",
     b : "bee",
     c : "si"
   }
-
-  console.log(_thisIsUndefined) //logs undefined
-  console.log(doNothing()) //logs undefined
   console.log(someObj["d"]) //logs undefined
 ```
 

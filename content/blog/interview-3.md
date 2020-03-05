@@ -1,5 +1,5 @@
 ---
-date: "2020-01-09"
+date: "2020-02-03"
 title: '3: O que o operador OR || faz?'
 description: "#PerguntasDeEntrevistas 3"
 tags: es6,javascript,interview,entrevistas

@@ -1,5 +1,5 @@
 ---
-date: "2020-01-08"
+date: "2020-02-02"
 title: '2: O que o operador AND && faz?'
 description: "#PerguntasDeEntrevistas 2"
 tags: es6,javascript,interview,entrevistas
