@@ -1,7 +1,7 @@
 ---
 date: "2020-02-06"
 title: '6: O que é a propagação de eventos'
-description: "#PerguntasDeEntrevistas 5"
+description: "#PerguntasDeEntrevistas 6"
 tags: es6,javascript,interview,entrevistas
 ---
 
