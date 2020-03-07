@@ -5,7 +5,7 @@ description: "#PerguntasDeEntrevistas 5"
 tags: es6,javascript,interview,entrevistas
 ---
 
-### 5 O que é o **DOM** ?
+https://instagram.com/p/B9aZcBFHZ7W/
 
 [O **DOM (Document Object Model)** é uma API](https://developer.mozilla.org/pt-BR/docs/DOM) para documentos HTML e XML . Ele fornece uma representação estrutural do documento, permitindo modificar o conteúdo e a apresentação visual usando uma linguagem de script como JavaScript.
 

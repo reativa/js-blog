@@ -5,7 +5,7 @@ description: "#PerguntasDeEntrevistas 2"
 tags: es6,javascript,interview,entrevistas
 ---
 
-### 2: O que o `&&` operador faz?
+https://instagram.com/p/B9SpkOZHVJ6/
 
 O operador `&&` ou **Logical AND** encontra a primeira expressão *falsa* em seus operandos e a retorna e, se não encontrar nenhuma expressão *falsa*, retorna a última expressão. 
 

@@ -32,6 +32,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-plugin-instagram-embed`,
           `gatsby-remark-embedder`,
           {
             resolve: `gatsby-remark-images`,

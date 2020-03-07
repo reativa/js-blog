@@ -5,7 +5,8 @@ description: "#PerguntasDeEntrevistas 1"
 tags: es6,javascript,interview,entrevistas
 ---
 
-### 1. Qual é a diferença entre `undefined` e `null`?
+https://instagram.com/p/B9QKJQSqRyw
+
 
 > **undefined**: valor primitivo utilizado quando uma variável não teve valor atribuído
 

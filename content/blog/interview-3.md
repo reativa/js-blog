@@ -4,7 +4,8 @@ title: '3: O que o operador OR || faz?'
 description: "#PerguntasDeEntrevistas 3"
 tags: es6,javascript,interview,entrevistas
 ---
-### 3: O que o operador OR || faz?
+
+https://instagram.com/p/B9VMErCHXVn/
 
 O operador `||` ou **Logical OR** encontra a primeira expressão *verdadeira* em seus operandos e a retorna. Isso também emprega curto-circuito para evitar trabalho desnecessário.
 

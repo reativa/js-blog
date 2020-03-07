@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 4"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://instagram.com/p/B9Xy7QtHHMa/
+
 De acordo com a [documentação](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus) da [MDN,](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus) `+` é a maneira mais rápida de converter uma string em um número porque ela não executa nenhuma operação no valor se já for um número.
 
 Exemplo:
