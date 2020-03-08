@@ -9,7 +9,7 @@ O método `event.preventDefault()` **evita** o comportamento padrão de um el
 
 Se usado em um `form`, ele **impede** o envio (submit).
 
-Se usado em um `anchor` (<a>), ele **impede** a navegação.
+Se usado em um `anchor` (`<a>`), ele **impede** a navegação.
 
 Se usado em um `contextmenu`, **impede** a exibição.
 
