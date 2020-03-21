@@ -5,10 +5,9 @@ description: ''
 tags: array,function,beginner
 ---
 
-Returns `true` if the provided predicate function returns `true` for all elements in a collection, `false` otherwise.
+Retorna `verdadeiro` caso o valor todos os valores que você passe no array do primeiro argumento, condizem com a segunda verificação.
 
-Use `Array.prototype.every()` to test if all elements in the collection return `true` based on `fn`.
-Omit the second argument, `fn`, to use `Boolean` as a default.
+Caso você não passe valor algum, ele só vai checar se os valores são verdadeiros.
 
 ```js
 const all = (arr, fn = Boolean) => arr.every(fn);
