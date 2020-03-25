@@ -5,8 +5,7 @@ description: "#PerguntasDeEntrevistas 15"
 tags: es6,javascript,interview,entrevistas
 ---
 
-
-### 15. O que são closures ?
+https://www.instagram.com/tv/B9zefp9HBVa/
 
 **Closures** é um tópico controverso. O que eu gostaria de ouvir como entrevistador seria algo como:
 

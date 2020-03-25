@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 7"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9ffPVfnO1z/
+
 O método `event.preventDefault()` **evita** o comportamento padrão de um elemento.
 
 Se usado em um `form`, ele **impede** o envio (submit).

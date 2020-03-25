@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 10"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9mke7fFuWY/
+
 Suponha que temos um exemplo abaixo.
 
 ```js

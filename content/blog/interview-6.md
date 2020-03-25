@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 6"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9c6bd-nWcw/?utm_source=ig_web_copy_link
+
 Caso queira executar o exemplo, use o [codepen.io](http://codepen.io)
 
 Imagina o seguinte HTML:

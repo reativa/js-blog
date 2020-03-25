@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 12"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9rt_w-BUft/
+
 Podemos usar a vírgula `,` para executar várias expressões em uma linha. Ele executa da esquerda para a direita e retorna o valor do último item à direita.
 
 ```js

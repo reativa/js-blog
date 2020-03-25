@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 8"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9hokfIHKDX/
+
 O **event.target** é o elemento no qual o evento **ocorreu** ou o elemento que **acionou** o evento.
 
 Exemplo de HTML:

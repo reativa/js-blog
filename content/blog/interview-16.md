@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 16"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B92F4yGHt5j/
+
 `"use strict"` é um recurso do ES5 no **JavaScript** que transforma nosso código no **Modo Estrito** em *funções* ou *scripts inteiros* . **O Modo Estrito** nos ajuda a evitar **erros** no início de nosso código e adiciona restrições a ele.
 
 Restrições que o **Modo Estrito** nos fornece.

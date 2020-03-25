@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 14"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9w3lg6nzt4/
+
 **Escopo** em JavaScript é a **área** em que temos acesso válido a variáveis ​​ou funções. 
 
 JavaScript tem três tipos de escopos: **Escopo Global** , **Escopo da Função** e **Escopo do Bloco (ES6)**.

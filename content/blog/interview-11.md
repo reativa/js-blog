@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 11"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9pJPohnn3E/
+
 O operador **NÃO-duplo** (!!) força a conversão do valor um booleano EXPLICITAMENTE, basicamente, é uma maneira elegante de converter um valor em um booleano.
 
 ```js

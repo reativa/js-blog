@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 13"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9uSymRDHIc/
+
 **Hoisting** no Javascript é o termo usado para descrever a movimentação de *variáveis* e *funções* para o topo de seu escopo *(global ou função),* em relação ao local de onde a definimos.
 
 Exemplo: 

@@ -5,6 +5,8 @@ description: "#PerguntasDeEntrevistas 9"
 tags: es6,javascript,interview,entrevistas
 ---
 
+https://www.instagram.com/tv/B9j_oeXF244/
+
 Caso queira executar os exemplos, use o [codepen.io](http://codepen.io)
 
 A diferença entre `==` **(abstrata)** e `===` **(estrita)** é que 0 `==` compara por **valor** APÓS a *coerção* e `===` por **valor** e **tipo** sem *coerção*.
